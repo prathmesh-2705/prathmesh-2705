@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header_Github.png" alt="Prathmesh Nishane" />
+  <img src="./Modern blue tech theme.png" alt="Prathmesh Nishane" />
 </p>
 <h1 align="center">Hi 👋, I'm Prathmesh Nishane</h1>
 <h3 align="center">A Passionate Computer Engineer & IoT Developer from India 🚀</h3>
